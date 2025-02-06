@@ -16,17 +16,17 @@ This repository contains projects and assignments completed during my Data Scien
 The repository is organized into three levels, corresponding to the bootcamp structure:
 
 # Level 1 - Python & Programming Foundations
-- 🔹 L1T01 - L1T15 - Fundamentals of Python, control structures, error handling, data structures, and file operations.
-- 🔹 Key Project: Chatbot Project - A simple chatbot implementation using conditional statements and string operations.
+- L1T01 - L1T15 - Fundamentals of Python, control structures, error handling, data structures, and file operations.
+- Key Project: Chatbot Project - A simple chatbot implementation using conditional statements and string operations.
 
 # Level 2 - Data Science Fundamentals & Visualization
-- 🔹 L2T01 - L2T11 - Data sources, databases, SQL, data cleaning, preprocessing, and statistics.
-- 🔹 L2T06 - L2T08 - Data visualization using Power BI, Tableau, and Python libraries (Matplotlib, Seaborn).
-- 🔹 Capstone Project: Linear Regression in Action - A predictive modeling project using regression techniques.
+- L2T01 - L2T11 - Data sources, databases, SQL, data cleaning, preprocessing, and statistics.
+- L2T06 - L2T08 - Data visualization using Power BI, Tableau, and Python libraries (Matplotlib, Seaborn).
+- Capstone Project: Linear Regression in Action - A predictive modeling project using regression techniques.
 
 # Level 3 - Machine Learning & NLP
-- 🔹 L3T01 - L3T06 - Advanced machine learning techniques, including logistic regression, decision trees, random forests, and clustering.
-- 🔹 Capstone Project: NLP Applications - Implemented natural language processing techniques for text classification tasks.
+- L3T01 - L3T06 - Advanced machine learning techniques, including logistic regression, decision trees, random forests, and clustering.
+- Capstone Project: NLP Applications - Implemented natural language processing techniques for text classification tasks.
 
 
 # Dashboards
