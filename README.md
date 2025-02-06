@@ -4,8 +4,8 @@
 This repository contains projects and assignments completed during my Data Science Bootcamp at Stellenbosch University in partnership with HyperionDev. The bootcamp covered a broad range of topics, from Python programming and data visualization to machine learning and natural language processing (NLP).
 
 # 🎯 Bootcamp Highlights
-✅ Python for Data Science - Data types, control structures, functions
-✅ Data Wrangling - Pandas, NumPy, Data Cleaning & Preprocessing
+- ✅ Python for Data Science - Data types, control structures, functions
+- ✅ Data Wrangling - Pandas, NumPy, Data Cleaning & Preprocessing
 ✅ Databases & SQL - Querying, data storage, and ETL processes
 ✅ Data Visualization - Power BI, Tableau, Matplotlib, Seaborn
 ✅ Machine Learning - Supervised & Unsupervised Learning, Regression, Classification
