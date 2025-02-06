@@ -44,5 +44,5 @@ The repository is organized into three levels, corresponding to the bootcamp str
 - Machine Learning: Scikit-learn, Supervised & Unsupervised Models
 - NLP: Natural Language Toolkit (NLTK), Text Processing
 # 📩 Contact & Connect
- 📧 Email: livhuwani96@gmail.com
- 🔗 LinkedIn: linkedin.com/in/livhuwani-munyai-4b85b3b1
+- 📧 Email: livhuwani96@gmail.com
+- 🔗 LinkedIn: linkedin.com/in/livhuwani-munyai-4b85b3b1
