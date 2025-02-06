@@ -3,7 +3,7 @@
 # 📌 Overview
 This repository contains projects and assignments completed during my Data Science Bootcamp at Stellenbosch University in partnership with HyperionDev. The bootcamp covered a broad range of topics, from Python programming and data visualization to machine learning and natural language processing (NLP).
 
-🎯 Bootcamp Highlights
+# 🎯 Bootcamp Highlights
 ✅ Python for Data Science - Data types, control structures, functions
 ✅ Data Wrangling - Pandas, NumPy, Data Cleaning & Preprocessing
 ✅ Databases & SQL - Querying, data storage, and ETL processes
@@ -28,8 +28,6 @@ The repository is organized into three levels, corresponding to the bootcamp str
 🔹 L3T01 - L3T06 - Advanced machine learning techniques, including logistic regression, decision trees, random forests, and clustering.
 🔹 Capstone Project: NLP Applications - Implemented natural language processing techniques for text classification tasks.
 
-# 🚀 Key Projects & Notebooks
-Here are some notable projects from the bootcamp:
 
 # 📊 Power BI & Tableau Dashboards
 Power BI Report (Add a screenshot or link to a hosted dashboard if available)
