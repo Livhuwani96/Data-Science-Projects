@@ -1,0 +1,33 @@
+[
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year_of_publication": 1960,
+        "genre": "Southern Gothic, Bildungsroman"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "year_of_publication": 1949,
+        "genre": "Dystopian, Political Fiction, Social Science Fiction"
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year_of_publication": 1925,
+        "genre": "Tragedy"
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J. D. Salinger",
+        "year_of_publication": 1951,
+        "genre": "Realistic Fiction, Coming-of-Age Fiction"
+    },
+    {
+        "title": "Animal Farm",        
+        "author":"George Orwell",
+        "genre":"Tragedy",
+        "year_of_publication":"2002"
+}
+
+]

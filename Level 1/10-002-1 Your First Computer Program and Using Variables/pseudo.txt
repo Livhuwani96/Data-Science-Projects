@@ -1,0 +1,31 @@
+
+Request user to enter positive number
+if number is > 0 request another input
+else if user inputs 0
+print the largest number inputed
+
+
+
+request user to input their name
+store the inputed name into varible named "first_name"
+print user's name + "Hello, World"
+
+
+
+Get numbers
+output arithmetic average of the numbers
+
+
+
+Get list of required items
+get list of items already purchased
+if required items do not appear on the list of purchase items,
+then print list of remaining items in alphabetical order
+
+
+
+Get number1 and number 2 as "x" and "y"
+calculate sum of x and y as "s"
+calculate s/2 as "a"
+calculate the product of x and y as "p"
+print the values of s, a and p

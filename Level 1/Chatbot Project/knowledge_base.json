@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "question": "How do I reset my password?",
+      "answer": "To reset your password, go to the login page and click on 'Forgot Password'. Follow the instructions sent to your email."
+    },
+    {
+      "question": "How do I connect to the VPN?",
+      "answer": "To connect to the VPN, open the VPN client, enter your credentials, and click 'Connect'. Make sure you have the necessary permissions."
+    },
+    {
+      "question": "What should I do if my computer is running slow?",
+      "answer": "If your computer is running slow, try restarting it. If the issue persists, check for updates or run a virus scan."
+    }  
+  ]
+}
