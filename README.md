@@ -1,18 +1,18 @@
 # Data Science Bootcamp - Stellenbosch University x HyperionDev
 
-# 📌 Overview
+# Overview
 This repository contains projects and assignments completed during my Data Science Bootcamp at Stellenbosch University in partnership with HyperionDev. The bootcamp covered a broad range of topics, from Python programming and data visualization to machine learning and natural language processing (NLP).
 
-# 🎯 Bootcamp Highlights
-- ✅ Python for Data Science - Data types, control structures, functions
-- ✅ Data Wrangling - Pandas, NumPy, Data Cleaning & Preprocessing
-- ✅ Databases & SQL - Querying, data storage, and ETL processes
-- ✅ Data Visualization - Power BI, Tableau, Matplotlib, Seaborn
-- ✅ Machine Learning - Supervised & Unsupervised Learning, Regression, Classification
-- ✅ Natural Language Processing (NLP) - Text processing, sentiment analysis
-- ✅ Capstone Projects - End-to-end real-world data science applications
+# Bootcamp Highlights
+- Python for Data Science - Data types, control structures, functions
+- Data Wrangling - Pandas, NumPy, Data Cleaning & Preprocessing
+- Databases & SQL - Querying, data storage, and ETL processes
+- Data Visualization - Power BI, Tableau, Matplotlib, Seaborn
+- Machine Learning - Supervised & Unsupervised Learning, Regression, Classification
+- Natural Language Processing (NLP) - Text processing, sentiment analysis
+- Capstone Projects - End-to-end real-world data science applications
 
-# 📂 Repository Structure
+# Repository Structure
 The repository is organized into three levels, corresponding to the bootcamp structure:
 
 # Level 1 - Python & Programming Foundations
@@ -29,20 +29,20 @@ The repository is organized into three levels, corresponding to the bootcamp str
 - 🔹 Capstone Project: NLP Applications - Implemented natural language processing techniques for text classification tasks.
 
 
-# 📊 Power BI & Tableau Dashboards
-- Power BI Report (Add a screenshot or link to a hosted dashboard if available)
+# Dashboards
+- Power BI Report 
 - Tableau Visualizations
-# 🤖 Machine Learning Models
+# Machine Learning Models
 - Supervised Learning - Linear Regression
 - Decision Trees & Random Forests
-# 📝 NLP Project - Sentiment Analysis
+# NLP Project - Sentiment Analysis
 - Implemented a text classification model using Natural Language Processing (NLP) techniques.
-# 🔧 Technologies Used
+# Technologies Used
 - Programming: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, NLTK)
 - Databases & Querying: SQL, PostgreSQL
 - BI & Visualization: Power BI, Tableau
 - Machine Learning: Scikit-learn, Supervised & Unsupervised Models
 - NLP: Natural Language Toolkit (NLTK), Text Processing
-# 📩 Contact & Connect
-- 📧 Email: livhuwani96@gmail.com
-- 🔗 LinkedIn: linkedin.com/in/livhuwani-munyai-4b85b3b1
+# Contact & Connect
+- Email: livhuwani96@gmail.com
+- LinkedIn: linkedin.com/in/livhuwani-munyai-4b85b3b1
