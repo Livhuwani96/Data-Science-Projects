@@ -1,7 +1,7 @@
 # Data Science Bootcamp - Stellenbosch University x HyperionDev
 
 # Overview
-This repository contains projects and assignments completed during my Data Science Bootcamp at Stellenbosch University in partnership with HyperionDev. The bootcamp covered a broad range of topics, from Python programming and data visualization to machine learning and natural language processing (NLP).
+This repository contains projects completed during my Data Science Bootcamp at Stellenbosch University in partnership with HyperionDev. The bootcamp covered a broad range of topics, from Python programming and data visualization to machine learning and natural language processing (NLP).
 
 # Bootcamp Highlights
 - Python for Data Science - Data types, control structures, functions
