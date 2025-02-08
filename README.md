@@ -22,7 +22,7 @@ This repository contains projects completed during my Data Science Bootcamp at S
 - Task assignment, tracking, and status updates (stored in `tasks.txt`)  
 - Admin dashboard for user/task statistics  
 
-**[View Project](https://github.com/Livhuwani96/Data-Science-Projects/tree/main/Capstone%20Project%20-%20Files)** (Link to repo or relevant folder)  
+**[View Project](https://github.com/Livhuwani96/Data-Science-Projects/tree/main/Capstone%20Project%20-%20Files)**
 
 ---
 
