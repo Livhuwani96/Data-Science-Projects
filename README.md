@@ -31,7 +31,7 @@ This repository contains projects completed during my Data Science Bootcamp at S
 **Tech Used:** Python, Pandas, Scikit-learn, Matplotlib  
 **Outcome:** Modeled relationships between house prices and key features, evaluated using RMSE & MSE.  
 
-➡️ **[View Project]((https://github.com/Livhuwani96/Data-Science-Projects/tree/main/Capstone%20Project%20-%20Linear%20Regression%20in%20Action))**  
+**[View Project](https://github.com/Livhuwani96/Data-Science-Projects/tree/main/Capstone%20Project%20-%20Linear%20Regression%20in%20Action)**  
 
 ---
 
@@ -40,7 +40,7 @@ This repository contains projects completed during my Data Science Bootcamp at S
 **Tech Used:** Python, NLTK, Scikit-learn  
 **Outcome:** Developed an NLP model for sentiment analysis and automated text categorization.  
 
-➡️ **[View Project](https://github.com/Livhuwani96/Data-Science-Projects/tree/main/Capstone%20Project%20-%20NLP%20Applications)**  
+**[View Project](https://github.com/Livhuwani96/Data-Science-Projects/tree/main/Capstone%20Project%20-%20NLP%20Applications)**  
 
 
 # Dashboards
